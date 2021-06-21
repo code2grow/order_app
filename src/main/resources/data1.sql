@@ -1,0 +1,15 @@
+truncate table ITEM;
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(10.50,"Apple Watch ","Apple 6 with new features",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(122.50,"Police Watch ","Police Smart watch ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50,"Diesel Watch ","Diesel band based watch ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(920.50,"Apple Laptop ","Apple based ios laptop ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(320.50,"Lenovo Laptop ","Windows based laptop ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(520.50," Asus Laptop","Windows based laptop ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Asus Laptop","Windows based laptop ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Cowboy hat","Round cap cowboy style ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Rugby Cap","cap for rugby fans",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Baseball Cap","cap for baseball fans",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Addias Cap","cap for adidas fans",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Nike shoe","shoes for brand Nike ",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Puma shoe","shoes for brand Puma",true);
+INSERT INTO ITEM ( price, name,description, in_stock) VALUES(20.50," Adidas shoe","shoes for brand Adidas",true);
